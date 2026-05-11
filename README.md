@@ -1,17 +1,16 @@
-# firebase
+# Mobile Programming E4
+## Flutter Text Scanner
 
-A new Flutter project.
+Aplikasi pemindai teks (OCR) sederhana yang dibangun menggunakan Flutter dan Google ML Kit. Aplikasi ini memungkinkan pengguna untuk mengambil gambar dari kamera atau memilih dari galeri dan mengekstrak teks di dalamnya secara instan.
 
-## Getting Started
+- **OCR Engine**: [Google ML Kit Text Recognition](https://developers.google.com/ml-kit/vision/text-recognition)
 
-This project is a starting point for a Flutter application.
+## Cara Penggunaan
 
-A few resources to get you started if this is your first Flutter project:
+1. Buka aplikasi.
+2. Klik tombol **"Scan Gambar"** di bagian bawah.
+3. Pilih sumber gambar (Kamera atau Galeri).
+4. Tunggu proses pemindaian selesai.
+5. Gunakan tombol **ikon copy** untuk menyalin teks hasil scan.
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="FotoAplikasi.jpeg" width="300">
